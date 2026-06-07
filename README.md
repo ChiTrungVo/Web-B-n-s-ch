@@ -2,7 +2,22 @@
 Đồ án xây dựng website thương mại điện tử bán sách sử dụng Spring Boot và Thymeleaf.
 
 # Công nghệ sử dụng
-Thành phầnCông nghệBackendJava 21, Spring Boot 3.5.5FrontendThymeleaf, Thymeleaf Layout Dialect, HTML/CSSORMSpring Data JPA (Hibernate)DatabaseMySQL 8, Microsoft SQL ServerLưu trữ ảnhCloudinaryValidationJakarta ValidationBuild toolMavenKhácLombok, Spring Boot DevTools
+Backend: Java 21, Spring Boot 3.5.5
+
+Frontend: Thymeleaf, Thymeleaf Layout Dialect, HTML/CSS
+
+ORM: Spring Data JPA (Hibernate)
+
+Database: MySQL 8, Microsoft SQL Server
+
+Lưu trữ ảnh: Cloudinary
+
+Validation: Jakarta Validation
+
+Build tool: Maven
+
+Khác: Lombok, Spring Boot DevTools
+
 
 # Tính năng chính
 ## Người dùng (Khách hàng)
