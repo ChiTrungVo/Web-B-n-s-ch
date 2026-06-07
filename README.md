@@ -8,7 +8,7 @@ Frontend: Thymeleaf, Thymeleaf Layout Dialect, HTML/CSS
 
 ORM: Spring Data JPA (Hibernate)
 
-Database: MySQL 8, Microsoft SQL Server
+Database: MySQL
 
 Lưu trữ ảnh: Cloudinary
 
